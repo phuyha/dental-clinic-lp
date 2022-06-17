@@ -3,6 +3,9 @@ module.exports = {
   purge: ['./src/**/*.{js,ts,jsx,tsx}'],
   darkMode: false,
   theme: {
+    fontFamily: {
+      serif: ['"Roboto Slab"'],
+    },
     fontSize: {
       xs: '0.75rem',
       sm: '0.875rem',
@@ -17,10 +20,10 @@ module.exports = {
     },
     extend: {
       colors: {
-        primary: '#ec4755',
-        secondary: '#a12c34',
-        tertiary: '#99a0a3',
-        border: '#1a2e35',
+        primary: '#95D9DA',
+        secondary: '#6DD6DA',
+        tertiary: '#A2ABB5',
+        border: '#AE8CA3',
         background: '#ffffff',
       },
       animation: {

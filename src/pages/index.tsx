@@ -13,7 +13,7 @@ import Product from '../components/Product';
 
 const App = () => {
   return (
-    <div className={`bg-background grid gap-y-16 overflow-hidden`}>
+    <div className={`bg-background grid gap-y-16 overflow-hidden font-serif`}>
       <div className={`relative bg-background`}>
         <div className="max-w-7xl mx-auto">
           <div

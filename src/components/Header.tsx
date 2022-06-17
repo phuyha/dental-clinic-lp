@@ -54,6 +54,7 @@ const Menu = () => {
                   key={item.name}
                   to={item.href}
                   className="font-medium text-gray-500 hover:text-gray-900"
+                  style={{ cursor: 'pointer' }}
                 >
                   {item.name}
                 </Link>

@@ -1,24 +1,24 @@
 {
   "company": {
-    "name": "React landing page 2021",
+    "name": "Nha Khoa Cao Kỳ",
     "logo": "/assets/images/logo.png"
   },
   "navigation": [
     {
-      "name": "Product",
+      "name": "Sản phẩm",
       "href": "product"
     },
     {
-      "name": "Features",
+      "name": "Dịch vụ",
       "href": "features"
     },
 
     {
-      "name": "Pricing",
+      "name": "Giá",
       "href": "pricing"
     },
     {
-      "name": "About",
+      "name": "Về chúng tôi",
       "href": "about"
     }
   ],
@@ -27,10 +27,10 @@
     "href": "#"
   },
   "mainHero": {
-    "title": "Use me as your",
-    "subtitle": "landing page.",
+    "title": "Cùng bác sĩ chuyên khoa I",
+    "subtitle": "Đại học Y Hà Nội",
     "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
-    "img": "/assets/images/happyTeam.jpeg",
+    "img": "/assets/images/dr_Ky.jpg",
     "primaryAction": {
       "text": "Get started",
       "href": "#"
@@ -41,7 +41,7 @@
     }
   },
   "product": {
-    "title": "React landing page 2021",
+    "title": "Nha Khoa Cao Kỳ",
     "items": [
       {
         "title": "A plug n play template",
@@ -145,9 +145,9 @@
       }
     ],
     "socialMedia": {
-      "github": "https://github.com/issaafalkattan",
-      "twitter": "https://twitter.com/issaafkattan",
-      "linkedin": "https://www.linkedin.com/in/issaaf-kattan/"
+      "facebook": "https://www.facebook.com/ky.sniper",
+      "zalo": "https://zalo.me/0975115379",
+      "contact": "tel:0975115379"
     }
   }
 }
