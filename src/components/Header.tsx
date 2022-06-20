@@ -59,12 +59,12 @@ const Menu = () => {
                   {item.name}
                 </Link>
               ))}
-              <a
+              {/* <a
                 href="#"
                 className={`font-medium text-primary hover:text-secondary`}
               >
-                Call to action
-              </a>
+                0975115379
+              </a> */}
             </div>
           </nav>
         </div>
